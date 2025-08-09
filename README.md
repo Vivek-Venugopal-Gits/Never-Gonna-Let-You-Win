@@ -25,12 +25,35 @@ TensorFlow/Keras: LSTM model trained on patterned synthetic data (~50–60% accu
 OpenCV: Webcam capture and GUI with a non-blocking 5-second countdown.
 NumPy: Efficient gesture history and data processing.
 scikit-learn (optional): Validation split for LSTM training
-# Installation
+# Installation<br>
+### Clone the Repository <br>
+```bash
 git clone https://github.com/Vivek-Venugopal-Gits/Never-Gonna-Let-You-Win
-pip install -r requirements.txt <br>
-# Run
+```
+<br> 
+
+### Install required Libraries <br>
+
+```bash
+pip install -r requirements.txt
+```
+<br>
+# Run<br>
+
+### Train the Model <br>
+
+```bash
 python train_lstm.py
+```
+
+<br>
+
+### Run the Main File <br>
+
+```bash
 python main.py
+```
+
 ### Project Documentation
 For Software:
 # Screenshots (Add at least 3)
@@ -45,10 +68,7 @@ For Software:
 *Webcam → Hand Detection → Gesture Classification (Rock=0, Paper=1, Scissors=2) → Numeric Encoding → LSTM Prediction → AI Counter Move → Game Result Display* br<>
 ### Project Demo
 # Video
-![Demo Video] (https://drive.google.com/file/d/1PARAEK63H7yfuktNH3fV9yEP9dUsTM8H/view?usp=drive_link) <br>
-
-
-
+[![Demo Video](NeverGonnaLetYouWin.jpg)]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1PARAEK63H7yfuktNH3fV9yEP9dUsTM8H/view?usp=sharing)) <br>
 Made with ❤️ at TinkerHub Useless Projects
 ![StaticBadge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![StaticBadge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)

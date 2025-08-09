@@ -67,9 +67,10 @@ For Software:
 <img width="806" height="633" alt="Hand Gesture for Scissors" src="https://github.com/user-attachments/assets/91c2f856-ca65-421f-b028-2f340e44e470" /><br>
 # Diagrams <br>
 *Webcam → Hand Detection → Gesture Classification (Rock=0, Paper=1, Scissors=2) → Numeric Encoding → LSTM Prediction → AI Counter Move → Game Result Display* br<>
-### Project Demo
-# Video
-[![Demo Video](NeverGonnaLetYouWin.jpg)]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1PARAEK63H7yfuktNH3fV9yEP9dUsTM8H/view?usp=sharing)) <br>
+
+# Project Demo
+## Video
+
 
 <a href="https://drive.google.com/file/d/1PARAEK63H7yfuktNH3fV9yEP9dUsTM8H/view?usp=sharing" target="_blank">
     <img src="NeverGonnaLetYouWin.jpg" alt="Demo Video">

@@ -36,16 +36,16 @@ For Software:
 # Screenshots (Add at least 3)
 ## Sample Gestures
 ![Paper Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
-*Rock (0) → "Rock: Solid and unbreakable!"*
+*Rock (0) → "Rock: Solid and unbreakable!"* <br>
 ![Rock Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
-*Paper (1) → "Paper: Smooth and covering!"*
+*Paper (1) → "Paper: Smooth and covering!"* <br>
 ![Scissors Gesture](https://drive.google.com/file/d/1WxQxd3PGOcM-655jBNWP6hiqAaowAyXA/view?usp=drive_link)
-*Scissors (2) → "Scissors: Sharp and cutting!"*
-# Diagrams
-*Webcam → Hand Detection → Gesture Classification (Rock=0, Paper=1, Scissors=2) → Numeric Encoding → LSTM Prediction → AI Counter Move → Game Result Display*
+*Scissors (2) → "Scissors: Sharp and cutting!"* <br>
+# Diagrams <br>
+*Webcam → Hand Detection → Gesture Classification (Rock=0, Paper=1, Scissors=2) → Numeric Encoding → LSTM Prediction → AI Counter Move → Game Result Display* br<>
 ### Project Demo
 # Video
-![Demo Video](https://drive.google.com/file/d/1PARAEK63H7yfuktNH3fV9yEP9dUsTM8H/view?usp=drive_link)
+![Demo Video](https://drive.google.com/file/d/1PARAEK63H7yfuktNH3fV9yEP9dUsTM8H/view?usp=drive_link) <br>
 Made with ❤️ at TinkerHub Useless Projects
 ![Static
 Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fw

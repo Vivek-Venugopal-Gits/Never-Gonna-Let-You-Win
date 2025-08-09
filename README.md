@@ -36,6 +36,8 @@ For Software:
 # Screenshots (Add at least 3)
 ## Sample Gestures
 ![Paper Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
+<img width="3188" height="1202" alt="frame (3)"
+src="https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link" />
 *Rock (0) → "Rock: Solid and unbreakable!"* <br>
 ![Rock Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
 *Paper (1) → "Paper: Smooth and covering!"* <br>

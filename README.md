@@ -27,7 +27,7 @@ NumPy: Efficient gesture history and data processing.
 scikit-learn (optional): Validation split for LSTM training
 # Installation
 git clone https://github.com/Vivek-Venugopal-Gits/Never-Gonna-Let-You-Win
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 # Run
 python train_lstm.py
 python main.py

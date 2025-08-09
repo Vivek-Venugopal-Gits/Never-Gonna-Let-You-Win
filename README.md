@@ -36,11 +36,10 @@ For Software:
 # Screenshots (Add at least 3)
 ## Sample Gestures
 ![Paper Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
-<img width="3188" height="1202" alt="frame (3)"
-src="https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link" />
+*Paper (1) → "Paper: Smooth and covering!"* <br>
+<img width="798" height="629" alt="Hand Gesture for Paper" src="https://github.com/user-attachments/assets/0e387ec8-ac1e-42d3-8919-3ebb2bb247a1" />
 *Rock (0) → "Rock: Solid and unbreakable!"* <br>
 ![Rock Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
-*Paper (1) → "Paper: Smooth and covering!"* <br>
 ![Scissors Gesture](https://drive.google.com/file/d/1WxQxd3PGOcM-655jBNWP6hiqAaowAyXA/view?usp=drive_link)
 *Scissors (2) → "Scissors: Sharp and cutting!"* <br>
 # Diagrams <br>

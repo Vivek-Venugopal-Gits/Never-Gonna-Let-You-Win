@@ -35,13 +35,12 @@ python main.py
 For Software:
 # Screenshots (Add at least 3)
 ## Sample Gestures
-![Paper Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
 *Paper (1) → "Paper: Smooth and covering!"* <br>
 <img width="798" height="629" alt="Hand Gesture for Paper" src="https://github.com/user-attachments/assets/0e387ec8-ac1e-42d3-8919-3ebb2bb247a1" />
 *Rock (0) → "Rock: Solid and unbreakable!"* <br>
-![Rock Gesture](https://drive.google.com/file/d/1aW2P8e0qNgBgQuIvURUoUJgl9Ab0zrmH/view?usp=drive_link)
-![Scissors Gesture](https://drive.google.com/file/d/1WxQxd3PGOcM-655jBNWP6hiqAaowAyXA/view?usp=drive_link)
+<img width="798" height="629" alt="Hand Gesture for Rock" src="https://github.com/user-attachments/assets/62b28f1f-fb19-486b-87de-e000f69a13cb" />
 *Scissors (2) → "Scissors: Sharp and cutting!"* <br>
+<img width="806" height="633" alt="Hand Gesture for Scissors" src="https://github.com/user-attachments/assets/91c2f856-ca65-421f-b028-2f340e44e470" />
 # Diagrams <br>
 *Webcam → Hand Detection → Gesture Classification (Rock=0, Paper=1, Scissors=2) → Numeric Encoding → LSTM Prediction → AI Counter Move → Game Result Display* br<>
 ### Project Demo
